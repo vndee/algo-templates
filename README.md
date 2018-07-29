@@ -3,7 +3,6 @@ _Huynh Van Duy_
 
 [![Join the chat at https://gitter.im/cp-templates/Lobby](https://badges.gitter.im/cp-templates/Lobby.svg)](https://gitter.im/cp-templates/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/hdi-superuser/cp-templates.svg?branch=master)](https://travis-ci.org/hdi-superuser/cp-templates)
-[![Stories in Ready](https://badge.waffle.io/hdi-superuser/cp-templates.png?label=ready&title=Ready)](https://waffle.io/hdi-superuser/cp-templates)
 
 > C++
 >
@@ -58,9 +57,9 @@ _Huynh Van Duy_
 - `TWOSAT`: 2-SAT problems
 - `ZFUNC.h`: Z - function
 
-![cp images] (http://cpbook.net/img/cp-logo.png)
+![cp images](http://cpbook.net/img/cp-logo.png)
 ![cf images](http://wunderfund.io/static/codeforces_logo.png)
-![tc images] (https://apps.topcoder.com/i/reskin/logo.png)
-![acmicpc images] (http://www.acmicpc-latam.org/logo_acm.jpg)
-![hr images] (https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg)
-![fbhc images] (https://webtoolfeed.files.wordpress.com/2012/03/facebok-hackathon.jpg)
+![tc images](https://apps.topcoder.com/i/reskin/logo.png)
+![acmicpc images](http://www.acmicpc-latam.org/logo_acm.jpg)
+![hr images](https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg)
+![fbhc images](https://webtoolfeed.files.wordpress.com/2012/03/facebok-hackathon.jpg)
