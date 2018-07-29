@@ -65,9 +65,3 @@ Copyright 2018 Duy Huynh
   <img src = "https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg">
   <img src = "https://webtoolfeed.files.wordpress.com/2012/03/facebok-hackathon.jpg">
 </p>
-![cp images](http://cpbook.net/img/cp-logo.png)
-![cf images](http://wunderfund.io/static/codeforces_logo.png)
-![tc images](https://apps.topcoder.com/i/reskin/logo.png)
-![acmicpc images](http://www.acmicpc-latam.org/logo_acm.jpg)
-![hr images](https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg)
-![fbhc images](https://webtoolfeed.files.wordpress.com/2012/03/facebok-hackathon.jpg)
