@@ -61,7 +61,7 @@ Copyright 2018 Duy Huynh
   <img src = "http://cpbook.net/img/cp-logo.png">
   <img src = "https://st.codeforces.com/s/28452/images/codeforces-logo-with-telegram.png">
   <img src = "https://apps.topcoder.com/i/reskin/logo.png">
-  <img src = "http://www.acmicpc-latam.org/logo_acm.jpg">
+  <img src = "https://cs.hamilton.edu/wordpress/wp-content/uploads/2016/09/logo.jpg">
   <img src = "https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg">
   <img src = "https://webtoolfeed.files.wordpress.com/2012/03/facebok-hackathon.jpg">
 </p>
